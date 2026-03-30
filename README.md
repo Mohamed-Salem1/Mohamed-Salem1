@@ -1,19 +1,24 @@
-### Hi there, I'm Mohamed Salem 👋
+# 👋 Hi, I'm Mohamed Salem
+### 🚀 Aspiring Cloud Engineer | Linux Enthusiast | Automation Lover
 
-**Aspiring Cloud & DevOps Engineer ☁️ | Tech Enthusiast**
+I'm a Computer Science & AI student at Sohag University, deeply focused on mastering Cloud Infrastructure (AWS) and DevOps practices. I believe in the power of the Command Line and building systems that scale.
 
-I'm a passionate tech enthusiast from Egypt, currently on a journey to master Cloud Computing and DevOps. I love automating repetitive tasks, building clean scripts, and solving problems.
+- 🔭 **Current Focus:** Google IT Automation with Python Professional Certificate.
+- 🐧 **OS Preference:** Ubuntu LTS (100% Terminal-based workflow).
+- 📜 **Certification:** Ubuntu Linux Essentials (ITI).
+- 🛠️ **Tools:** Bash Scripting, Linux Administration, Python, Git/GitHub.
+- 🎯 **Goal:** Architecting secure and automated cloud solutions on AWS.
 
-- 🔭 I’m currently focusing on: **Google IT Automation with Python** (Coursera).
-- 🌱 I’m currently learning: **Python** & System Automation.
-- ✅ Just finished: Mastering **Linux & Bash Scripting**.
-- 💬 Ask me about: Linux commands, Bash scripting, and automating workflows.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-salem-cloud)
+---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+### 🔧 Technologies & Skills
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📈 Find me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salem-cloud)
