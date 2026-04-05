@@ -40,15 +40,6 @@ I'm a **Computer Science student** at Sohag University, deeply focused on master
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Salem1&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Salem1&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
----
-
 ##  Education & Certifications
 
 - 📜 **Google IT Automation with Python Professional Certificate** - In Progress
@@ -56,14 +47,6 @@ I'm a **Computer Science student** at Sohag University, deeply focused on master
 - 📜 **Ubuntu Linux Essentials** - ITI
 
 ---
-
-## 🤝 Let's Connect
-
-I'm always open to discussing:
-- ☁️ Cloud Infrastructure & DevOps practices
-- 🐧 Linux System Administration
-- 🐍 Python & Bash Automation
-- 🌟 Open Source Contributions
 
 ### 📫 Reach Me At:
 - 💼 **LinkedIn:** [linkedin.com/in/mohamed-salem-cloud](https://linkedin.com/in/mohamed-salem-cloud)
