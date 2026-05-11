@@ -51,7 +51,7 @@ I'm a **Computer Science student** at Sohag University, deeply focused on master
 ### 📫 Reach Me At:
 - 💼 **LinkedIn:** [linkedin.com/in/mohamed-salem-cloud](https://linkedin.com/in/mohamed-salem-cloud)
 - 📧 **Email:** mohamed.salem3234@gmail.com
-- 🌍 **Location:** Sohag, Egypt
+- 🌍 **Location:** Cairo, Egypt
 
 ---
 
