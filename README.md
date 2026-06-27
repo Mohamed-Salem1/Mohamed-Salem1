@@ -9,7 +9,7 @@ I'm a **Computer Science student** at Sohag University, deeply focused on master
 ## 💼 About Me
 
 - 🔭 **Currently pursuing:** Google IT Automation with Python Professional Certificate
-- 🐧 **OS Preference:** Ubuntu LTS (100% Terminal-based workflow)
+- 🐧 **OS Preference:** Ubuntu LTS
 - 📜 **Certification:** Ubuntu Linux Essentials (ITI)
 - 🛠️ **Tools:** Bash Scripting, Linux Administration, Python, Git/GitHub
 - 🎯 **Goal:** Architecting secure and automated cloud solutions on AWS
@@ -42,7 +42,8 @@ I'm a **Computer Science student** at Sohag University, deeply focused on master
 
 ##  Education & Certifications
 
-- 📜 **Google IT Automation with Python Professional Certificate** - In Progress
+- 📜 **Crash Course on Python** - Google
+- 📜 **McKinsey Forward Program** - McKinsey.org
 - 📜 **AWS AI Practitioner Challenge** - Udacity
 - 📜 **Ubuntu Linux Essentials** - ITI
 
